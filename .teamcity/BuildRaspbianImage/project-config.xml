@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="79fb7e31-659d-4e8e-967b-109115dcd5e4" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/9.0/project-config.xsd">
+  <name>Build Raspbian Image</name>
+  <parameters />
+  <cleanup />
+</project>
+
